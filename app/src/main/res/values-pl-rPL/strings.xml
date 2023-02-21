@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblioteka</string>
+    <string name="back">Powrót</string>
+    <string name="save">Zapisz</string>
+    <string name="clear">Wyczyść</string>
+    <string name="add">Dodaj</string>
+    <string name="books">Książki</string>
+    <string name="clients">Klienci</string>
+</resources>

@@ -7,4 +7,7 @@
     <string name="add">Dodaj</string>
     <string name="books">Książki</string>
     <string name="clients">Klienci</string>
+    <string name="cancel">Anuluj</string>
+    <string name="delete">Usuń</string>
+    <string name="dialog_msg">Usunąć pozycję?</string>
 </resources>
